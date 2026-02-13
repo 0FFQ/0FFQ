@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://t.me/ffquish">
+    <img src="screenTG.png" width="150" height="150" alt="Telegram QR"/>
+  </a>
+</p>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="wave top" style="width:100%; display:block;" />
 <br><br><br>
 <p align="center">
