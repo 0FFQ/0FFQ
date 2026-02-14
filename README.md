@@ -1,11 +1,11 @@
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="wave top" style="width:100%; display:block;" />
-<br><br><br>
-
 <p align="center">
   <a href="https://t.me/ffquish">
     <img src="Gg-white.png" width="150" height="150" alt="Telegram QR"/>
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="wave top" style="width:100%; display:block;" />
+<br><br><br>
 
 <p align="center">
   <samp>
@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/VS_CODE-0F0F0F?style=for-the-badge&logo=visualstudiocode&logoColor=CCCCCC&labelColor=0F0F0F">
 </p>
-
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="wave top" style="width:100%; display:block;" />
 <p align="center">
   <a href="https://t.me/ffquish">
     <img src="screen.png" width="150" height="150" alt="Telegram QR"/>
