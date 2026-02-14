@@ -45,3 +45,57 @@
     <img src="screen.png" width="150" height="150" alt="Telegram QR"/>
   </a>
 </p>
+
+
+
+
+<svg viewBox="0 0 240 30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    svg {
+      width:100%;
+      overflow:visible;
+    }
+
+    .wave {
+      animation: wave 3s linear infinite;
+      fill: #4478e3;
+    }
+
+    .wave:hover {
+      fill: #0066cc;
+    }
+
+    #wave2 {
+      animation-duration: 5s;
+      animation-direction: reverse;
+      opacity: 0.6;
+    }
+
+    #wave3 {
+      animation-duration: 7s;
+      opacity: 0.3;
+    }
+
+    @keyframes wave {
+      to { transform: translateX(-100%); }
+    }
+  </style>
+
+  <defs>
+    <filter id="goo">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
+      <feColorMatrix in="blur" mode="matrix" values="
+           1 0 0 0 0
+           0 1 0 0 0
+           0 0 1 0 0
+           0 0 0 13 -9" result="goo" />
+      <feBlend in="SourceGraphic" in2="goo" />
+    </filter>
+
+    <path id="wave" d="M0,10 C30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
+  </defs>
+
+  <!-- Используем пути -->
+  <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" filter="url(#goo)" />
+  <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" filter="url(#goo)" />
+</svg>
