@@ -43,5 +43,7 @@
 <p align="center">
   <a href="https://t.me/ffquish" target="_blank">
     <img src="screen.png" width="150" height="150" alt="Telegram QR"/>
+    <img src="wave.svg" alt="wave top" style="width:100%; display:block;" />
+
   </a>
 </p>
