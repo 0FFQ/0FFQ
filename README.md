@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://t.me/ffquish">
-    <img src="QR-TG.png" width="150" height="150" alt="Telegram QR"/>
+    <img src="screen.png" width="150" height="150" alt="Telegram QR"/>
   </a>
 </p>
 
@@ -43,6 +43,6 @@
 
 <p align="center">
   <a href="https://t.me/ffquish">
-    <img src="QR-TG.png" width="150" height="150" alt="Telegram QR"/>
+    <img src="screen.png" width="150" height="150" alt="Telegram QR"/>
   </a>
 </p>
