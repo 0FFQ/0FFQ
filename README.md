@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://t.me/ffquish" target="_blank">
-    <img src="Gg-white.png" width="250" height="250" alt="Telegram QR"/>
+    <img src="Gg-white.png" width="200" height="200" alt="Telegram QR"/>
   </a>
 </p>
 
@@ -42,6 +42,6 @@
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="wave top" style="width:100%; display:block;" />
 <p align="center">
   <a href="https://t.me/ffquish" target="_blank">
-    <img src="screen.png" width="250" height="250" alt="Telegram QR"/>
+    <img src="screen.png" width="200" height="200" alt="Telegram QR"/>
   </a>
 </p>
